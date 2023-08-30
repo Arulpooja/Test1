@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleConcept2", "SeleConcept2\SeleConcept2.csproj", "{13FBD07A-DCF3-498F-A1EC-B0BEF30BC30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FBD07A-DCF3-498F-A1EC-B0BEF30BC30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FBD07A-DCF3-498F-A1EC-B0BEF30BC30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FBD07A-DCF3-498F-A1EC-B0BEF30BC30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FBD07A-DCF3-498F-A1EC-B0BEF30BC30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB6E6915-0496-43A0-8698-DB15AD2B0148}
+	EndGlobalSection
+EndGlobal
